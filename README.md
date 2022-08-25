@@ -1,17 +1,17 @@
-# Getting Started with Create React App
+# HOLA, SOMOS DROOMS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto se hizo basado en [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## SCRIPTS QUE PUEDES USAR
 
-In the project directory, you can run:
+En el directorio de este proyecto, tu puedes ejecutar:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ejecuta esta aplicacion en vista de desarrollador.\
+Abre [http://localhost:3000](http://localhost:3000) para verlo en tu navegador.
 
-The page will reload when you make changes.\
+Esta pagina se actualizara cada vez que detecte un cambio en la applicacion.\
 You may also see any lint errors in the console.
 
 ### `npm test`
